@@ -1,0 +1,7 @@
+Dominio y rango de una función
+Dominio de una función
+
+Son los valores que toma x y que están definidos en la función f(x)
+Rango de una función
+
+Son los valores que puede regresar una función.
